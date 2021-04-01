@@ -23,13 +23,13 @@ Challenge ![Challenge Top Schools Summary](Resources/Images/Challenge/Challenge_
 ##### Math
 Original ![Original Math Summary](Resources/Images/Original/Original_Math_scores_by_grade.png)
 
-Challenge ![Challenge Math Summary](Resources/Images/Challenge/Challenge_Math_Scores_By Grade.png)
+Challenge ![Challenge Math Summary](Resources/Images/Challenge/Challenge_Math_Scores_By_Grade.png)
 
 ##### Reading
 
 Original ![Original Reading Summary](Resources/Images/Original/Original_Reading_Scores_by_Grade.png)
 
-Challenge ![Challenge Reading Summary](Resources/Images/Challenge/Challenge_Reading_Score_by_Grade.png)
+Challenge ![Challenge Reading Summary](Resources/Images/Challenge/Challenge_Reading_Scores_by_Grade.png)
 
 #### Score by School Spending
 
