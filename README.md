@@ -5,16 +5,40 @@ The purpose of the following analysis was to build on previous work of analyzing
 ### Results
 The results will compare the original data outputs to the Challenge outputs.  Commentary will follow below each set of figures.
 
-* District Summary
-Original![Original District Summary](Resources/Images/Original/Original_District_Summary.png)
-Challenge![Challenge District Summary](Resources/Images/Challenge/Challenge_District_Summary.png)
-* School Summary
+##### District Summary
+Original ![Original District Summary](Resources/Images/Original/Original_District_Summary.png)
+Challenge ![Challenge District Summary](Resources/Images/Challenge/Challenge_District_Summary.png)
+#### School Summary
 
-* Thomas High School performance relavtive to other schools
-* Math and Reading Score By Grade
-* Score by School Spending
-* Score by School Size
-* Scores by School Type
+Original ![Original School Summary](Resources/Images/Original/Original_School_Summary.png)
+Challenge ![Challenge School Summary](Resources/Images/Challenge/Challenge_School_Summary.png)
+#### Thomas High School performance relative to other schools
+
+Original ![Original Top Schools Summary](Resources/Images/Original/Original_Top_5_Performing_Schools.png)
+Challenge ![Challenge Top Schools Summary](Resources/Images/Challenge/Challenge_Top_5_Performing_Schools.png)
+#### Math and Reading Score By Grade
+
+##### Math
+Original ![Original Math Summary](Resources/Images/Original/Original_Math_scores_by_grade.png)
+Challenge ![Challenge Math Summary](Resources/Images/Challenge/Challenge_Math_Scores_By Grade.png)
+
+##### Reading
+
+Original ![Original Reading Summary](Resources/Images/Original/Original_Reading_Scores_by_Grade.png)
+Challenge ![Challenge Reading Summary](Resources/Images/Challenge/Challenge_Reading_Score_by_Grade.png)
+
+#### Score by School Spending
+
+Original ![Original Spending Summary](Resources/Images/Original/Original_Spending_Summary.png)
+Challenge ![Challenge Spending Summary](Resources/Images/Challenge/Challenge_Spending_Summary.png)
+#### Score by School Size
+
+Original ![Original Size Summary](Resources/Images/Original/Original_Size_Summary.png)
+Challenge ![Challenge Size Summary](Resources/Images/Challenge/Challenge_Size_Summary.png)
+#### Scores by School Type
+Original ![Original Type Summary](Resources/Images/Original/Original_Type_Summary.png)
+Challenge ![Challenge Type Summary](Resources/Images/Challenge/Challenge_Type_Summary.png)
+
 
 ### Summary
 Four major changes in the updated school analysis include:
