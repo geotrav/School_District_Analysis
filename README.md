@@ -6,8 +6,8 @@ The purpose of the following analysis was to build on previous work of analyzing
 The results will compare the original data outputs to the Challenge outputs.  Commentary will follow below each set of figures.
 
 * District Summary
-  ![Original District Summary]()
-  ![Challenge District Summary]()
+ ![Original District Summary](Resources/Images/Original/Original_District_Summary.png)
+ ![Challenge District Summary](Resources/Images/Challenge/Challenge_District_Summary.png)
 * School Summary
 * Thomas High School performance relavtive to other schools
 * Math and Reading Score By Grade
