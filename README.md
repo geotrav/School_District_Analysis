@@ -9,6 +9,7 @@ The results will compare the original data outputs to the Challenge outputs.  Co
  ![Original District Summary](Resources/Images/Original/Original_District_Summary.png)
  ![Challenge District Summary](Resources/Images/Challenge/Challenge_District_Summary.png)
 * School Summary
+* 
 * Thomas High School performance relavtive to other schools
 * Math and Reading Score By Grade
 * Score by School Spending
