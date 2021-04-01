@@ -11,32 +11,43 @@ Challenge ![Challenge District Summary](Resources/Images/Challenge/Challenge_Dis
 #### School Summary
 
 Original ![Original School Summary](Resources/Images/Original/Original_School_Summary.png)
+
 Challenge ![Challenge School Summary](Resources/Images/Challenge/Challenge_School_Summary.png)
 #### Thomas High School performance relative to other schools
 
 Original ![Original Top Schools Summary](Resources/Images/Original/Original_Top_5_Performing_Schools.png)
+
 Challenge ![Challenge Top Schools Summary](Resources/Images/Challenge/Challenge_Top_5_Performing_Schools.png)
 #### Math and Reading Score By Grade
 
 ##### Math
 Original ![Original Math Summary](Resources/Images/Original/Original_Math_scores_by_grade.png)
+
 Challenge ![Challenge Math Summary](Resources/Images/Challenge/Challenge_Math_Scores_By Grade.png)
 
 ##### Reading
 
 Original ![Original Reading Summary](Resources/Images/Original/Original_Reading_Scores_by_Grade.png)
+
 Challenge ![Challenge Reading Summary](Resources/Images/Challenge/Challenge_Reading_Score_by_Grade.png)
 
 #### Score by School Spending
 
 Original ![Original Spending Summary](Resources/Images/Original/Original_Spending_Summary.png)
+
 Challenge ![Challenge Spending Summary](Resources/Images/Challenge/Challenge_Spending_Summary.png)
+
 #### Score by School Size
 
 Original ![Original Size Summary](Resources/Images/Original/Original_Size_Summary.png)
+
 Challenge ![Challenge Size Summary](Resources/Images/Challenge/Challenge_Size_Summary.png)
+
+
 #### Scores by School Type
+
 Original ![Original Type Summary](Resources/Images/Original/Original_Type_Summary.png)
+
 Challenge ![Challenge Type Summary](Resources/Images/Challenge/Challenge_Type_Summary.png)
 
 
